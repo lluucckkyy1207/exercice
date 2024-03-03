@@ -1,0 +1,43 @@
+body{
+	background-color: deepskyblue;
+}
+
+h1{
+	font-style: italic;
+	color: white;
+}
+
+.container{
+	background-color: white;
+	border-radius: 10px;
+	width: 60%;
+	height: 500px;
+	overflow-y: scroll;
+	box-shadow: 10px 5px 5px #1A1A1A;
+}
+
+table{
+	text-align: center;
+	width: 100%;
+	border-radius: 20px;
+}
+
+td{
+	width: 20%;
+	height: 40px;
+}
+
+.modify{
+	width: 100%;
+	height: 100%;
+}
+
+a{
+	color: #800080;
+}
+
+.urlnewTable{
+	display: flex;
+	justify-content: end;
+	margin-top: 10px;
+}
